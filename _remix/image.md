@@ -16,3 +16,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη συνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
+ 
+ <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="AlexPoulis" data-slug-hash="poEeyYg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="SVG Shape Example">
+  <span>See the Pen <a href="https://codepen.io/AlexPoulis/pen/poEeyYg">
+  SVG Shape Example</a> by Π2019128 (<a href="https://codepen.io/AlexPoulis">@AlexPoulis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
