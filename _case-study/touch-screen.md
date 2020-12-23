@@ -1,8 +1,8 @@
 ---
 author: alexpoulis
 title: " touch screen evolution "
-image_url: 
-caption: "  "
+image_url:  /images/touch-screen.jpg
+caption: " "
 categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
