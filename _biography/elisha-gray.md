@@ -1,7 +1,7 @@
 ---
 author: alexpoulis
 title: "Elisha Gray"
-image_url:
+image_url: /images/wacom-tablet.png
 caption: " Ο εφευρέτης της πρώτη μορφής του digitizer, το telegraph"
 categories:
   - Βιογραφία
