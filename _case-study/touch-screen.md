@@ -5,6 +5,7 @@ image_url:
 caption: "  "
 categories:
   - Μελέτη Περίπτωσης
+  - Αρχέτυπα
 tags:
   - touch screen
 gallery:
